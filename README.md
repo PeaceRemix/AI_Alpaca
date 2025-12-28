@@ -3,6 +3,7 @@ A cute alpaca ai agent&lt;3
 
 ## Installation
 **please make sure you have a least Python 3.8**
+
 1.Clone this alpaca 
 ```bash
    git clone [https://github.com/PeaceRemix/AI_Alpaca.git]
