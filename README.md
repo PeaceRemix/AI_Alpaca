@@ -6,7 +6,7 @@ A cute alpaca ai agent&lt;3
 
 1.Clone this alpaca 
 ```bash
-   git clone [https://github.com/PeaceRemix/AI_Alpaca.git]
+   git clone https://github.com/PeaceRemix/AI_Alpaca.git
 ```
 2.Install the package
 ```bash
