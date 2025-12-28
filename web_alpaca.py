@@ -8,7 +8,7 @@ import urllib.parse
 #set model
 client = Client(
     host='https://api-gateway.netdb.csie.ncku.edu.tw', 
-    headers={'Authorization': 'Bearer df00bbf401aaa607fbfb103e99b3822188c9ad280b1f966e7f2ed4fef973e039'} 
+    headers={'Authorization': 'Bearer <your api key>'} 
 )
 
 #title
@@ -176,4 +176,5 @@ if prompt := st.chat_input("Please write some instructions......"):
         #no need tools
         ai_reply = response['message']['content']
         st.chat_message("assistant", avatar="Ollama.png").write(ai_reply)
+
         st.session_state.messages.append(response['message'])
