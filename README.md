@@ -18,3 +18,6 @@ Open the terminal and enter
    streamlit run web_alpaca.py
 ```
 (remember to use your own api key!)
+
+## Flowchart 
+![image](https://github.com/PeaceRemix/AI_Alpaca/blob/main/Screenshot_20251229_101808_Samsung%20Notes.jpg)
